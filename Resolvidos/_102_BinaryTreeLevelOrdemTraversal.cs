@@ -33,18 +33,18 @@ public class _102_BinaryTreeLevelOrdemTraversal
         
         return resposta;
     }
-}
-
-public class TreeNode
-{
-    public int val;
-    public TreeNode left;
-    public TreeNode right;
-
-    public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
+    
+    public class TreeNode
     {
-        this.val = val;
-        this.left = left;
-        this.right = right;
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+
+        public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
+        {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
     }
 }

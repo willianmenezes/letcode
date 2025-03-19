@@ -6,6 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        _98_ValidateBinarySearchTree.Executar();
+        _111_MinimumDepthOfBinaryTree.Executar();
     }
 }

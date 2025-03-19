@@ -6,6 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        _111_MinimumDepthOfBinaryTree.Executar();
+        _230_KthSmallestElementInBST.Executar();
     }
 }
